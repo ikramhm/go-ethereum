@@ -1,3 +1,6 @@
+https://sideofburritos.com/blog/how-to-securely-setup-an-ethereum-node/
+https://pawelurbanek.com/ethereum-node-aws
+
 ## Go Ethereum
 
 Official Golang implementation of the Ethereum protocol.
